@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Nsoul9
-- 👀 I’m interested in Learn new things and have new opportunity
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Creative project based on the acquired knowledge
+-  I’m currently learning Java 
 - 📫 How to reach me natcssiqueira@gmail.com
 
 <!---
